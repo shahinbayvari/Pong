@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d70ea8f8-bbfd-4ae3-8d44-56df14ecf94d" name="Changes" comment="Add Board class">
+    <list default="true" id="d70ea8f8-bbfd-4ae3-8d44-56df14ecf94d" name="Changes" comment="Set size screen &amp; center screen">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Board.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
@@ -153,7 +153,21 @@
       <option name="project" value="LOCAL" />
       <updated>1653571357196</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Finally add paddle yay">
+      <created>1653572298810</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1653572298810</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Set size screen &amp; center screen">
+      <created>1653572358029</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1653572358029</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,6 +194,8 @@
     <MESSAGE value="AAAAAAAAAAAH" />
     <MESSAGE value="Add Main class" />
     <MESSAGE value="Add Board class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Board class" />
+    <MESSAGE value="Finally add paddle yay" />
+    <MESSAGE value="Set size screen &amp; center screen" />
+    <option name="LAST_COMMIT_MESSAGE" value="Set size screen &amp; center screen" />
   </component>
 </project>
