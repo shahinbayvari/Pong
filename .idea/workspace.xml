@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d70ea8f8-bbfd-4ae3-8d44-56df14ecf94d" name="Changes" comment="Add paddle to panel">
-      <change afterPath="$PROJECT_DIR$/src/Paddle.java" afterDir="false" />
-    </list>
+    <list default="true" id="d70ea8f8-bbfd-4ae3-8d44-56df14ecf94d" name="Changes" comment="AAAAAAAAAAAH" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,7 +114,28 @@
       <option name="project" value="LOCAL" />
       <updated>1653570096842</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add Paddle class">
+      <created>1653570525224</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1653570525224</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Remove paddle class">
+      <created>1653570592385</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1653570592385</updated>
+    </task>
+    <task id="LOCAL-00011" summary="AAAAAAAAAAAH">
+      <created>1653571046130</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1653571046130</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -138,6 +157,9 @@
     <MESSAGE value="Starting over because I have no idea what I'm doing omg" />
     <MESSAGE value="Create main class" />
     <MESSAGE value="Add paddle to panel" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add paddle to panel" />
+    <MESSAGE value="Add Paddle class" />
+    <MESSAGE value="Remove paddle class" />
+    <MESSAGE value="AAAAAAAAAAAH" />
+    <option name="LAST_COMMIT_MESSAGE" value="AAAAAAAAAAAH" />
   </component>
 </project>
